@@ -1,2 +1,4 @@
 # lol-winrate-prediction
-A win rate prediction model used for League of Legends.
+A win rate prediction model used for League of Legends based on
+* data set: 
+* algorithm: xgboost
